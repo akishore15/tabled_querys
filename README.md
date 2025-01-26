@@ -36,13 +36,13 @@ The repository is hosted on GitHub, providing a platform for collaboration. Mult
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/tables_querys.git
+    git clone https://github.com/akishore15/tabled_querys.git
     ```
 
 2. Navigate to the repository directory:
 
     ```bash
-    cd tables_querys
+    cd tabled_querys
     ```
 
 3. Install the required dependencies:
